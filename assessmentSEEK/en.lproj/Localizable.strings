@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  assessmentSEEK
+
+  Created by Phua June Jin on 01/05/2023.
+  
+*/
+
+"landing_jobs" = "Jobs";
+"landing_my_profile" = "My Profile";
+"landing_show_my_applications" = "My Applications";
+
+"login_main_title" = "**JobStreet by SEEK**";
+"login_email_address" = "Email Address";
+"login_password" = "Password";
+"login_login" = "**Login**";
+"login_forgot_password" = "Forgot your password?";
+
+"forgot_forgot_password" = "Reset Password";
+"forgot_description" = "Your email must be the same as the one you used to register yourself at JobStreet.com";
+"forgot_email_address" = "Email Address";
+"forgot_button" = "Send reset password email";
+"forgot_info" = "If you are logging in to JobStreet.com using your social account, please visit that service to retrieve or reset your password.";
+"forgot_success_message" = "Sent successfully!\nCheck your email for further instruction.";
+
+"job_details_apply" = "**Apply**";
+"job_details_applied" = "**Applied**";
+"job_details_description" = "Job Description";
+
+"job_applied_none" = "You have not applied to any jobs.";
+
+"profile_login" = "Login";
+"profile_logout" = "Log out";
+"profile_my_profile" = "My Profile";
+"profile_reset_password" = "Change Password";
+"profile_logout_message" = "Are you sure you want to log out?";
+"profile_name" = "Name";
+"profile_change_name" = "Change Name";
+"profile_yes" = "Yes";
+"profile_no" = "No";
+
+"profile_details_my_profile" = "My Profile";
+"profile_details_change_name_title" = "**Change name**";
+"profile_details_change_name_message" = "Are you sure you want to change name?";
+"profile_details_yes" = "Yes";
+"profile_details_no" = "No";
+"profile_details_ok" = "Ok";
+"profile_details_new_name" = "New name";
+"profile_details_success" = "The name was changed successfully";
+
+"change_password_title" = "Change Password";
+"change_password_old_password" = "Old Password";
+"change_password_new_password" = "New Password";
+"change_password_button" = "Change Password";
+"change_password_success_message" = "Password change successful!\nPlease re-login with new password";
